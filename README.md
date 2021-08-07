@@ -1,7 +1,5 @@
 ### Hi there, I'm Adiat Hasan [website] 👋
 
-[![Website]](https://adiathasan.vercel.app)
-
 ## I'm a Developer, and a Learner!!
 
 - 🌱 I’m currently learning everything 💪
