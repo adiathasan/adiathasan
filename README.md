@@ -38,7 +38,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Custom Form Component with hooks => [❔ Demo](https://adiathasan.vercel.app/form-hook-pattern) | [❔ Code](https://github.com/adiathasan/react-concepts/tree/master/src/components/Form)
+- Custom Form Component with hooks [❔ Demo](https://adiathasan.vercel.app/form-hook-pattern) | [❔ Code](https://github.com/adiathasan/react-concepts/tree/master/src/components/Form)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://adiathasan.vercel.app
