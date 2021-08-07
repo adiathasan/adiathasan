@@ -38,7 +38,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - Custom Form Component with hooks => [❔ Demo](https://adiathasan.vercel.app/form-hook-pattern) | [❔ Code](https://github.com/adiathasan/react-concepts/tree/master/src/components/Form)
 <!-- BLOG-POST-LIST:END -->
 
