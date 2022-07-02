@@ -40,7 +40,7 @@
 
 - Custom Form Component with hooks [❔ Demo](https://adiathasan.vercel.app/form-hook-pattern/) | [❔ Code](https://github.com/adiathasan/react-concepts/tree/master/src/components/Form)
 - State management with react-store-maker [❔ Demo](https://adiathasan.vercel.app/) | [❔ Code](https://github.com/adiathasan/react-store-maker)
-- Step wizard with overkilled React patterns [❔ Demo](hhttps://adiathasan.vercel.app/react-step-machine/) | [❔ Code](https://github.com/adiathasan/react-step-machine)
+- Step wizard with overkilled React patterns [❔ Demo](https://adiathasan.vercel.app/react-step-machine/) | [❔ Code](https://github.com/adiathasan/react-step-machine)
 
 <!-- BLOG-POST-LIST:END -->
 
