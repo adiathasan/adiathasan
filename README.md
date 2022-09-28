@@ -44,5 +44,5 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://adiathasan.vercel.app
+[website]: https://adiathasan.vercel.app/me
 [linkedin]: https://www.linkedin.com/in/adiat-hasan-1924681b0
