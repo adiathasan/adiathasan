@@ -1,7 +1,7 @@
 - 👯 Looking forward to collaborate 💻
 - 🥅 202~ Goals: Contribute to open source projects 📽
 
-### [About me](https://adiathasan.vercel.app/me):
+### [About me 🔗 - https://adiathasan.vercel.app/me](https://adiathasan.vercel.app/me)
 
 ### Languages and Tools:
 
