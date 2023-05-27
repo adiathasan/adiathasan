@@ -1,5 +1,5 @@
-- 👯 I’m looking to collaborate with developers 💻
-- 🥅 202~ Goals: Contribute more to Open Source projects 📽
+- 👯 Looking forward to collaborate 💻
+- 🥅 202~ Goals: Contribute to open source projects 📽
 
 ### [About me](https://adiathasan.vercel.app/me):
 
@@ -24,15 +24,7 @@
 <br />
 <br />
 
-### 📕 Latest Technical Works
-
-<!-- BLOG-POST-LIST:START -->
-
-- Custom Form Component with hooks [❔ Demo](https://adiathasan.vercel.app/form-hook-pattern/) | [❔ Code](https://github.com/adiathasan/react-concepts/tree/master/src/components/Form)
-- State management with react-store-maker [❔ Demo](https://adiathasan.vercel.app/) | [❔ Code](https://github.com/adiathasan/react-store-maker)
-- Step wizard with overkilled React patterns [❔ Demo](https://adiathasan.vercel.app/react-step-machine/) | [❔ Code](https://github.com/adiathasan/react-step-machine)
-
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://adiathasan.vercel.app/me
-[linkedin]: https://www.linkedin.com/in/adiat-hasan-1924681b0
+[linkedin]: https://www.linkedin.com/in/adiathasan
